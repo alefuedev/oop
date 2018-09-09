@@ -1,0 +1,6 @@
+====Exercise 1: Bank Account ====
+Create a BankAccount class, with a intereset_rate and a balance atributes.
+
+Create a method call deposit and a method call withdraw and a method call withdraw.
+
+
