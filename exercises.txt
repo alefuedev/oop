@@ -3,4 +3,11 @@ Create a BankAccount class, with a intereset_rate and a balance atributes.
 
 Create a method call deposit and a method call withdraw and a method call withdraw.
 
+====Exercise2: Cats ====
+Create a class called Cat
+Every cat should have three attributes when they're created: name, preferred_food and meal_time
+
+Add an instance method called eats_at that returns the hour of the day with AM or PM that this cat eats.
+
+Add another instance method called meow that returns a string of the cat telling you all about itself
 
